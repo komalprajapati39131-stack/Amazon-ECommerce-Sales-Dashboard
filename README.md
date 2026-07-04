@@ -1,5 +1,7 @@
 # 🛒 Amazon E-Commerce Sales Dashboard
 
+# 🛒 Amazon E-Commerce Sales Dashboard
+
 ## 📌 Project Overview
 
 This project analyzes Amazon E-Commerce sales data using Python to uncover meaningful business insights. The dataset was cleaned, processed, and visualized using **Pandas**, **NumPy**, and **Matplotlib**. The dashboard provides a comprehensive overview of sales performance, product categories, order status, and geographical sales distribution.
@@ -138,7 +140,7 @@ Amazon-ECommerce-Sales-Dashboard/
 ### Connect with me
 
 - GitHub: https://github.com/komalprajapati39131-stack
-- LinkedIn: *(Add your LinkedIn profile link here)*
+
 
 ---
 
